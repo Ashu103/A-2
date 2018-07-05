@@ -1,0 +1,4 @@
+x=int(input(print('enter the value')))
+y=int(input(print('enter the value')))
+z=int(input(print('enter the value')))
+print(x,y,z)
